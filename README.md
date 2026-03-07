@@ -1,0 +1,2 @@
+# Enterprise-Cyber-GRC-ISO-27001-ISMS-NovaTrust-Bank
+A complete end-to-end cybersecurity governance, risk, and compliance (GRC) program for a fictional digital bank. This project demonstrates ISO 27001:2022 ISMS implementation, NIST Framework alignment, enterprise cyber risk management, third-party risk management (TPRM), incident response, business continuity, and board-level cyber risk reporting.
