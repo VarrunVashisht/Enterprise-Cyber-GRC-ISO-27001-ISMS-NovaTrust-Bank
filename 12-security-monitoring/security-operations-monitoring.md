@@ -1,0 +1,185 @@
+# NovaTrust Bank
+## Cybersecurity Governance Program
+### Module 12 – Security Operations & Monitoring
+
+---
+
+# 1. Introduction
+
+Security operations and monitoring are critical components of NovaTrust Bank's cybersecurity program. Continuous monitoring enables the organization to detect cyber threats, respond to security incidents, and maintain the integrity of banking systems.
+
+NovaTrust Bank operates a Security Operations Center (SOC) responsible for monitoring security events across the organization's technology infrastructure.
+
+The SOC provides centralized visibility into security activity and enables rapid detection of potential cyber attacks.
+
+---
+
+# 2. Security Operations Center (SOC)
+
+The Security Operations Center serves as the central hub for cybersecurity monitoring and incident response.
+
+The SOC performs the following functions:
+
+• monitoring security alerts across systems and networks  
+• detecting suspicious or malicious activity  
+• investigating potential cybersecurity incidents  
+• coordinating incident response activities  
+• reporting security events to leadership
+
+The SOC operates continuously to ensure that NovaTrust Bank maintains real-time awareness of cyber threats.
+
+---
+
+# 3. Security Monitoring Architecture
+
+Security monitoring at NovaTrust Bank integrates multiple monitoring technologies to provide comprehensive visibility into system activity.
+
+Key monitoring systems include:
+
+| System | Purpose |
+|------|--------|
+| Security Information and Event Management (SIEM) | Centralized collection and analysis of security logs |
+| Endpoint Detection and Response (EDR) | Monitoring and detection of malicious activity on devices |
+| Network Detection Systems | Identification of suspicious network traffic |
+| Cloud Security Monitoring | Monitoring of cloud infrastructure activity |
+| Threat Intelligence Platforms | Identification of emerging cyber threats |
+
+These monitoring systems provide the SOC with the data required to detect cyber attacks.
+
+---
+
+# 4. Security Event Logging
+
+Security logging is essential for identifying suspicious activity across NovaTrust Bank's infrastructure.
+
+Logs are collected from multiple sources including:
+
+• authentication systems  
+• banking applications  
+• network infrastructure  
+• cloud environments  
+• endpoint devices
+
+Security logs are centralized within the SIEM platform where they are analyzed for indicators of compromise.
+
+---
+
+# 5. Threat Detection Capabilities
+
+NovaTrust Bank uses several detection techniques to identify potential cyber threats.
+
+Detection mechanisms include:
+
+• behavioral analytics identifying abnormal system activity  
+• signature-based detection for known malware patterns  
+• threat intelligence indicators for known malicious actors  
+• anomaly detection identifying unusual user behavior
+
+These techniques enable early detection of cyber threats.
+
+---
+
+# 6. Security Alert Management
+
+Security monitoring tools generate alerts when suspicious activity is detected.
+
+The SOC evaluates alerts based on severity and potential impact.
+
+Alert categories include:
+
+| Alert Severity | Description |
+|---------------|-------------|
+| Low | Minor security event requiring monitoring |
+| Medium | Suspicious activity requiring investigation |
+| High | Potential cyber attack requiring immediate analysis |
+| Critical | Confirmed security incident requiring rapid response |
+
+Alerts are prioritized to ensure that critical threats are addressed immediately.
+
+---
+
+# 7. Incident Detection and Investigation
+
+When a potential security incident is identified, SOC analysts conduct investigations to determine the scope and severity of the event.
+
+Investigation activities include:
+
+• reviewing security logs  
+• analyzing endpoint behavior  
+• evaluating network traffic patterns  
+• identifying compromised accounts or systems
+
+These investigations help determine whether an alert represents a genuine cybersecurity incident.
+
+---
+
+# 8. Threat Intelligence Integration
+
+Threat intelligence provides insight into emerging cyber threats targeting financial institutions.
+
+NovaTrust Bank integrates threat intelligence feeds into its monitoring systems to detect known malicious activity.
+
+Threat intelligence sources include:
+
+• financial sector information sharing networks  
+• cybersecurity research organizations  
+• government cybersecurity agencies
+
+Integrating threat intelligence enables proactive defense against emerging threats.
+
+---
+
+# 9. Security Metrics and Performance Monitoring
+
+NovaTrust Bank measures the effectiveness of its security monitoring capabilities through several performance metrics.
+
+Key metrics include:
+
+| Metric | Description |
+|------|-------------|
+| Mean Time to Detect (MTTD) | Average time required to detect security incidents |
+| Mean Time to Respond (MTTR) | Average time required to respond to incidents |
+| Security Alert Volume | Number of alerts generated by monitoring systems |
+| Incident Resolution Rate | Percentage of incidents successfully resolved |
+
+These metrics help evaluate the effectiveness of the SOC.
+
+---
+
+# 10. Continuous Security Monitoring
+
+Cyber threats evolve continuously, requiring ongoing monitoring of systems and infrastructure.
+
+Continuous monitoring includes:
+
+• real-time security alert analysis  
+• regular vulnerability scanning  
+• monitoring of user activity  
+• monitoring of system configurations
+
+This approach ensures that security risks are detected as early as possible.
+
+---
+
+# 11. Integration with Incident Response
+
+Security monitoring is closely integrated with NovaTrust Bank's incident response processes.
+
+When confirmed security incidents are detected, the SOC coordinates with incident response teams to contain and mitigate the threat.
+
+This coordination ensures rapid response to cybersecurity incidents.
+
+---
+
+# 12. Importance of Security Operations
+
+Effective security monitoring enables NovaTrust Bank to maintain strong cyber resilience.
+
+Security operations help the organization:
+
+• detect cyber attacks quickly  
+• prevent escalation of security incidents  
+• protect customer financial data  
+• maintain operational continuity
+
+Through continuous monitoring and rapid response capabilities, NovaTrust Bank strengthens its ability to defend against evolving cyber threats.
