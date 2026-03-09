@@ -75,6 +75,10 @@ Based on the enterprise cyber risk register, NovaTrust Bank's cyber risk exposur
 | CR-09 | Malware infection across endpoints | 4 | 3 | High |
 | CR-10 | Data leakage from misconfigured storage | 3 | 4 | High |
 
+sample:
+
+<img width="1291" height="626" alt="image" src="https://github.com/user-attachments/assets/48b5df69-1921-4be5-b674-245cbab024ca" />
+
 ---
 
 # 6. Key Cyber Risk Observations
